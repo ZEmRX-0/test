@@ -1,8 +1,8 @@
 {
-    "url": "https://raw.githubusercontent.com/ZEmRX-0/test/main/test.yaml",
+    "url": "https://raw.githubusercontent.com/ZEmRX-0/test/main/xss.yaml",
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/ZEmRX-0/test/main/test.yaml",
+            "url": "https://raw.githubusercontent.com/ZEmRX-0/test/main/xss.yaml",
             "name": "Foo"
         }
     ]
